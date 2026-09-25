@@ -9,9 +9,9 @@ viewBox="0 0 2934.82 1905.92"
   <style type="text/css">
    <![CDATA[
     svg {background:transparent !important}
-    .fil2 {fill:#C5822A;stroke:#C5822A;fill-rule:nonzero}
-    .fil0 {fill:#FFFAF1;stroke:#FFFAF1;fill-rule:nonzero}
-    .fil1 {fill:#C5822A;stroke:#C5822A;fill-rule:nonzero}
+    .fil2 {fill:#FFFFFF;stroke:#FFFFFF;fill-rule:nonzero}
+    .fil0 {fill:#FFFFFF;stroke:#FFFFFF;fill-rule:nonzero}
+    .fil1 {fill:#FFFFFF;stroke:#FFFFFF;fill-rule:nonzero}
 
     .is-animated .logo-path {
       fill-opacity: 0;
